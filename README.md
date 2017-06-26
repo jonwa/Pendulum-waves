@@ -1,2 +1,2 @@
-# PendulumWave
-Pendulum wave using verlet integration
+# PendulumWaves
+A pendulum waves simulation using verlet integration.
